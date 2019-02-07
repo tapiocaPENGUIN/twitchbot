@@ -18,6 +18,3 @@ def getName():
         print('You may not drink legally!')
 
 getName()
-# Second comment from vim
-#Third comment using different branches
-#this comment is new!
