@@ -9,12 +9,13 @@ def getName():
         print('Your name is longer than 5 characters!')
     else:
         print('Your name is less that 5 characters!')
-      
+
     print('How old are you? ')
     age = input()
     if(int(age) >=21):
         print('You are old enough to drink!')
     else:
         print('You may not drink legally!')
-        
+
 getName()
+#this comment is new!
